@@ -1,0 +1,207 @@
+﻿#EXTM3U
+#EXTINF:-1,1HD HD
+http://109.239.128.126:8080/1hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,2X2
+http://109.239.128.126:8080/2x2/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,365
+http://109.239.128.126:8080/365/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,78 HD
+http://109.239.128.126:8080/78_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,A1
+http://109.239.128.126:8080/a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://109.239.128.126:8080/amedia_premium/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ANIMAL_PLANET
+http://109.239.128.126:8080/animal_planet/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,AVTOPLUS
+http://109.239.128.126:8080/avtoplus/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,BOBER
+http://109.239.128.126:8080/bober/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,BRIDGE
+http://109.239.128.126:8080/bridge/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,CARTOON
+http://109.239.128.126:8080/cartoon/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,CBS_REALITY
+http://109.239.128.126:8080/cbs_reality/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,CHE
+http://109.239.128.126:8080/che/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,CTC_LOVE
+http://109.239.128.126:8080/ctc_love/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DA_VINCI
+http://109.239.128.126:8080/da_vinci/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DETSKIY
+http://109.239.128.126:8080/detskiy/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://109.239.128.126:8080/discovery_channel/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DISCOVERY_SCIENCE
+http://109.239.128.126:8080/discovery_science/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DISNEY
+http://109.239.128.126:8080/disney/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DOM_KINO
+http://109.239.128.126:8080/dom_kino/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DOM_KINO_PREMIUM HD
+http://109.239.128.126:8080/dom_kino_premium_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DOMASHNIY HD
+http://109.239.128.126:8080/domashniy_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DOZHD HD
+http://109.239.128.126:8080/dozhd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,DTX
+http://109.239.128.126:8080/dtx/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,EDA HD
+http://109.239.128.126:8080/eda_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ENGLISH_CLUB HD
+http://109.239.128.126:8080/english_club/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,EURONEWS
+http://109.239.128.126:8080/euronews/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,EUROPA_PLUS
+http://109.239.128.126:8080/europa_plus/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,EUROSPORT
+http://109.239.128.126:8080/eurosport/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,FOX HD
+http://109.239.128.126:8080/fox_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,FOX_LIFE HD
+http://109.239.128.126:8080/fox_life_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,FRANCE24 HD
+http://109.239.128.126:8080/france24_fr/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,HD_LIFE HD
+http://109.239.128.126:8080/hd_life/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,HDMEDIA HD
+http://109.239.128.126:8080/hdmedia/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,HGTV
+http://109.239.128.126:8080/hgtv/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,HOLLYWOOD HD
+http://109.239.128.126:8080/hollywood_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ID
+http://109.239.128.126:8080/id/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ILLUSION_PLUS
+http://109.239.128.126:8080/illusion_plus/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,JIMJAM
+http://109.239.128.126:8080/jimjam/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KARUSEL
+http://109.239.128.126:8080/karusel/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KHL
+http://109.239.128.126:8080/khl/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KINO_TV HD
+http://109.239.128.126:8080/kino_tv_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KINOHIT
+http://109.239.128.126:8080/kinohit/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KINOKOMEDIA
+http://109.239.128.126:8080/kinokomedia/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KINOMIX
+http://109.239.128.126:8080/kinomix/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KINOSERIA
+http://109.239.128.126:8080/kinoseria/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KINOSVIDANIE
+http://109.239.128.126:8080/kinosvidanie/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KINOUZHAS
+http://109.239.128.126:8080/kinouzhas/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,KUHNYA_TV
+http://109.239.128.126:8080/kuhnya_tv/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MAMA
+http://109.239.128.126:8080/mama/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MATCH
+http://109.239.128.126:8080/match/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MATCH ARENA HD
+http://109.239.128.126:8080/match_arena_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MATCH HD
+http://109.239.128.126:8080/match_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MATCH_BOETS
+http://109.239.128.126:8080/match_boets/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MIR
+http://109.239.128.126:8080/mir/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MOSFILM
+http://109.239.128.126:8080/mosfilm/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MULT
+http://109.239.128.126:8080/mult/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MUZ
+http://109.239.128.126:8080/muz/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MUZHSKOY
+http://109.239.128.126:8080/muzhskoy/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MUZIKA
+http://109.239.128.126:8080/muzika/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,MY_PLANET
+http://109.239.128.126:8080/my_planet/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,NASHE_NOVOE_KINO
+http://109.239.128.126:8080/nashe_novoe_kino/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,NAT_GEO_WILD HD
+http://109.239.128.126:8080/nat_geo_wild_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,NATIONAL_GEOGRAPHIC HD
+http://109.239.128.126:8080/national_geographic_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,NAUKA_20
+http://109.239.128.126:8080/nauka_20/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,NICK_JR
+http://109.239.128.126:8080/nick_jr/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,NICKELODEON HD
+http://109.239.128.126:8080/nickelodeon_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,NTV
+http://109.239.128.126:8080/ntv/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ORUZHIE
+http://109.239.128.126:8080/oruzhie/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,OTR
+http://109.239.128.126:8080/otr/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,PERVIY
+http://109.239.128.126:8080/perviy/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,PERVIY HD
+http://109.239.128.126:8080/perviy_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,POEHALI
+http://109.239.128.126:8080/poehali/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,PYATNITSA
+http://109.239.128.126:8080/pyatnitsa/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,RBC
+http://109.239.128.126:8080/rbc/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,RED LINE
+http://109.239.128.126:8080/red_line/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,REN_TV
+http://109.239.128.126:8080/ren_tv/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,RODNOE_KINO
+http://109.239.128.126:8080/rodnoe_kino/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,RTG HD
+http://109.239.128.126:8080/rtg_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,RU_TV
+http://109.239.128.126:8080/ru_tv/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,SOYUZ
+http://109.239.128.126:8080/soyuz/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,SPAS
+http://109.239.128.126:8080/spas/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,SUPER
+http://109.239.128.126:8080/super/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TELECAFE
+http://109.239.128.126:8080/telecafe/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TELEDOM HD
+http://109.239.128.126:8080/teledom_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TLC HD
+http://109.239.128.126:8080/tlc/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TNT HD
+http://109.239.128.126:8080/tnt/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TNT_MUSIC
+http://109.239.128.126:8080/tnt_music/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TNT4
+http://109.239.128.126:8080/tnt4/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TRAVEL_ADVENTURE HD
+http://109.239.128.126:8080/travel_adventure_hd/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TV_1000_RUS_KINO
+http://109.239.128.126:8080/tv_1000_rus_kino/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TV3
+http://109.239.128.126:8080/tv3/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,TVC
+http://109.239.128.126:8080/tvc/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,VIASAT_EXPLORE
+http://109.239.128.126:8080/viasat_explore/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,VIASAT_HISTORY
+http://109.239.128.126:8080/viasat_history/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,VIASAT_NATURE
+http://109.239.128.126:8080/viasat_nature/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,VIASAT_SPORT
+http://109.239.128.126:8080/viasat_sport/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,VIP MEGAHIT HD
+http://109.239.128.126:8080/vip_megahit/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,VIP_COMEDY HD
+http://109.239.128.126:8080/vip_comedy/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,VREMYA
+http://109.239.128.126:8080/vremya/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ZAGORODNAYA_ZHIZN
+http://109.239.128.126:8080/zagorodnaya_zhizn/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ZVEZDA
+http://109.239.128.126:8080/zvezda/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,ЛДПР
+http://109.239.128.126:8080/ldpr/index.m3u8?token=em9uYS1pcHR2LnJ1
